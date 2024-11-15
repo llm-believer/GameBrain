@@ -1,0 +1,15 @@
+action_freq: 24
+debug: false
+early_stop: false
+extra_buttons: false
+fast_video: true
+game_state: /workspaces/SmartGB/game_config/game_state.yml
+gb_path: /workspaces/SmartGB/PokemonRed.gb
+headless: true
+init_state: /workspaces/SmartGB/has_pokedex_nballs.state
+max_steps: 16384
+print_rewards: true
+save_final_state: true
+save_video: false
+sim_frame_dist: 2000000.0
+use_screen_explore: true
